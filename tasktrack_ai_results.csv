@@ -1,0 +1,16 @@
+Task,AI_Analysis
+Complete Python assignment,"- Priority: High
+- Estimated Time: 3–6 hours (typical single-module assignment; if it involves data analysis/web framework, plan 8–12 hours)
+- Productivity Tip: Turn the requirements into small test cases (e.g., pytest) first, then code to make each test pass; this keeps scope clear and prevents rabbit holes."
+Prepare for interview,"- Priority: High
+- Estimated Time: 4–6 hours total (research, craft STAR stories, practice aloud); add 2–4 hours if it’s a technical interview for problem practice
+- Productivity Tip: Use the job description as your roadmap—pull the top 6–8 competencies, write STAR bullets for each, then practice aloud in 25-minute timeboxes."
+Update resume,"- Priority: Medium (High if you’re applying or networking in the next 1–2 weeks)
+- Estimated Time: 60–120 minutes
+- Productivity Tip: Pull 3–5 target job descriptions, highlight repeated keywords, and update the top third and key bullets to match; use CAR/STAR to quantify results, then do a final 10-minute ATS/grammar check."
+Apply for remote jobs,"- Priority: High
+- Estimated Time: 4–6 hours to prep materials and submit 5–8 tailored applications; then 1–2 hours/week for follow-ups
+- Productivity Tip: Create resume/cover-letter templates and a simple tracking sheet; batch applications in 60–90 minute focus blocks with a target (e.g., 5 high-quality submissions)."
+Learn OpenAI API,"- Priority: Medium (High if you’re integrating AI into a project soon)
+- Estimated Time: 6–10 hours to reach functional proficiency; 1–2 days to build a small demo
+- Productivity Tip: Learn by building a tiny, end-to-end demo (e.g., a Q&A bot) using the official quickstart—iterate prompts in the Playground, then codify them with tests and environment-managed API keys."
